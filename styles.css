@@ -46,7 +46,7 @@
 .home-page {
   margin-right: 1px;
   min-height: 100vh;
-  background-image: url(../assets/home-page.png);
+  background-image: url(./assets/home-page.png);
   margin-bottom: 150px;
 }
 
@@ -192,7 +192,7 @@ hr {
 
 /* Views */
 .view {
-  background-image: url(../assets/Project_143-16.jpg);
+  background-image: url(./assets/Project_143-16.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 100px;
@@ -254,7 +254,7 @@ hr {
 /*get-started*/
 
 .get-started {
-  background-image: url(../assets/laptop.png);
+  background-image: url(./assets/laptop.png);
   height: 100vh;
   display: flex;
   align-items: center;
@@ -304,7 +304,7 @@ hr {
 
 /*fourth*/
 .fourth {
-  background-image: url(../assets/template.png);
+  background-image: url(./assets/template.png);
   text-align: center;
   padding-top: 100px;
   padding-bottom: 100px;
@@ -336,7 +336,7 @@ hr {
 /*contact*/
 
 .contact {
-  background-image: url(../assets/demo.png);
+  background-image: url(./assets/demo.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: bottom;
